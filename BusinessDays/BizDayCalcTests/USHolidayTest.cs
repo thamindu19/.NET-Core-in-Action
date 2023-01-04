@@ -19,7 +19,7 @@ namespace BizDayCalcTests {
         public USHolidayTest() {
             calculator = new Calculator();
             calculator.AddRule(new HolidayRule());
-            console.WriteLine("In USHolidayTest constructor");
+            Console.WriteLine("In USHolidayTest constructor");
         }
 
         [Theory]

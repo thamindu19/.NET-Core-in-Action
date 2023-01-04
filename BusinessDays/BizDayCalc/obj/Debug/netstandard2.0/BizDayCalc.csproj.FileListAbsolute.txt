@@ -6,3 +6,13 @@ C:\Users\TD\Desktop\.NET Core in Action\BusinessDays\BizDayCalc\obj\Debug\netsta
 C:\Users\TD\Desktop\.NET Core in Action\BusinessDays\BizDayCalc\obj\Debug\netstandard2.0\BizDayCalc.AssemblyInfo.cs
 C:\Users\TD\Desktop\.NET Core in Action\BusinessDays\BizDayCalc\obj\Debug\netstandard2.0\BizDayCalc.dll
 C:\Users\TD\Desktop\.NET Core in Action\BusinessDays\BizDayCalc\obj\Debug\netstandard2.0\BizDayCalc.pdb
+C:\Users\thamindub\Documents\.NET-Core-in-Action\BusinessDays\BizDayCalc\bin\Debug\netstandard2.0\BizDayCalc.deps.json
+C:\Users\thamindub\Documents\.NET-Core-in-Action\BusinessDays\BizDayCalc\bin\Debug\netstandard2.0\BizDayCalc.dll
+C:\Users\thamindub\Documents\.NET-Core-in-Action\BusinessDays\BizDayCalc\bin\Debug\netstandard2.0\BizDayCalc.pdb
+C:\Users\thamindub\Documents\.NET-Core-in-Action\BusinessDays\BizDayCalc\obj\Debug\netstandard2.0\BizDayCalc.csproj.AssemblyReference.cache
+C:\Users\thamindub\Documents\.NET-Core-in-Action\BusinessDays\BizDayCalc\obj\Debug\netstandard2.0\BizDayCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thamindub\Documents\.NET-Core-in-Action\BusinessDays\BizDayCalc\obj\Debug\netstandard2.0\BizDayCalc.AssemblyInfoInputs.cache
+C:\Users\thamindub\Documents\.NET-Core-in-Action\BusinessDays\BizDayCalc\obj\Debug\netstandard2.0\BizDayCalc.AssemblyInfo.cs
+C:\Users\thamindub\Documents\.NET-Core-in-Action\BusinessDays\BizDayCalc\obj\Debug\netstandard2.0\BizDayCalc.csproj.CoreCompileInputs.cache
+C:\Users\thamindub\Documents\.NET-Core-in-Action\BusinessDays\BizDayCalc\obj\Debug\netstandard2.0\BizDayCalc.dll
+C:\Users\thamindub\Documents\.NET-Core-in-Action\BusinessDays\BizDayCalc\obj\Debug\netstandard2.0\BizDayCalc.pdb

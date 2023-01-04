@@ -1,0 +1,15 @@
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CsvParser\bin\Debug\netcoreapp6.0\CsvParser.exe
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CsvParser\bin\Debug\netcoreapp6.0\CsvParser.deps.json
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CsvParser\bin\Debug\netcoreapp6.0\CsvParser.runtimeconfig.json
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CsvParser\bin\Debug\netcoreapp6.0\CsvParser.dll
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CsvParser\bin\Debug\netcoreapp6.0\CsvParser.pdb
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CsvParser\obj\Debug\netcoreapp6.0\CsvParser.csproj.AssemblyReference.cache
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CsvParser\obj\Debug\netcoreapp6.0\CsvParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CsvParser\obj\Debug\netcoreapp6.0\CsvParser.AssemblyInfoInputs.cache
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CsvParser\obj\Debug\netcoreapp6.0\CsvParser.AssemblyInfo.cs
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CsvParser\obj\Debug\netcoreapp6.0\CsvParser.csproj.CoreCompileInputs.cache
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CsvParser\obj\Debug\netcoreapp6.0\CsvParser.dll
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CsvParser\obj\Debug\netcoreapp6.0\refint\CsvParser.dll
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CsvParser\obj\Debug\netcoreapp6.0\CsvParser.pdb
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CsvParser\obj\Debug\netcoreapp6.0\CsvParser.genruntimeconfig.cache
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CsvParser\obj\Debug\netcoreapp6.0\ref\CsvParser.dll

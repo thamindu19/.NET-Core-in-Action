@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z5hCMIu1O4p6cldb664Lm2fZ+iyh2wF4zzNWlZ1CAR8K2qQnt8k/frink+GInFHtVJt/Br7DTlshj7FqmVfIag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\BusinessDays\\BizDayCalc\\BizDayCalc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thamindub\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\thamindub\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,29 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TD\\Desktop\\.NET Core in Action\\CsvParser\\CsvParser.csproj": {}
+    "C:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\CsvParser\\CsvParser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TD\\Desktop\\.NET Core in Action\\CsvParser\\CsvParser.csproj": {
+    "C:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\CsvParser\\CsvParser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TD\\Desktop\\.NET Core in Action\\CsvParser\\CsvParser.csproj",
+        "projectUniqueName": "C:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\CsvParser\\CsvParser.csproj",
         "projectName": "CsvParser",
-        "projectPath": "C:\\Users\\TD\\Desktop\\.NET Core in Action\\CsvParser\\CsvParser.csproj",
-        "packagesPath": "C:\\Users\\TD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TD\\Desktop\\.NET Core in Action\\CsvParser\\obj\\",
+        "projectPath": "C:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\CsvParser\\CsvParser.csproj",
+        "packagesPath": "C:\\Users\\thamindub\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\CsvParser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\TD\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\thamindub\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "netcoreapp6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
+          "net6.0": {
+            "targetAlias": "netcoreapp6.0",
             "projectReferences": {}
           }
         },
@@ -34,7 +37,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "net6.0": {
+          "targetAlias": "netcoreapp6.0",
           "imports": [
             "net461",
             "net462",
@@ -50,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.307\\RuntimeIdentifierGraph.json"
         }
       }
     }

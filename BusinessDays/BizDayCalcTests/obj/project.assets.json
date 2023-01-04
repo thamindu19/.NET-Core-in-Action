@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.0": {
+    "net6.0": {
       "coverlet.collector/1.0.1": {
         "type": "package",
         "build": {
@@ -6587,7 +6587,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.0": [
+    "net6.0": [
       "BizDayCalc >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.2.0",
       "coverlet.collector >= 1.0.1",
@@ -6596,31 +6596,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\TD\\.nuget\\packages\\": {}
+    "C:\\Users\\thamindub\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TD\\Desktop\\.NET Core in Action\\BusinessDays\\BizDayCalcTests\\BizDayCalcTests.csproj",
+      "projectUniqueName": "C:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\BusinessDays\\BizDayCalcTests\\BizDayCalcTests.csproj",
       "projectName": "BizDayCalcTests",
-      "projectPath": "C:\\Users\\TD\\Desktop\\.NET Core in Action\\BusinessDays\\BizDayCalcTests\\BizDayCalcTests.csproj",
-      "packagesPath": "C:\\Users\\TD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TD\\Desktop\\.NET Core in Action\\BusinessDays\\BizDayCalcTests\\obj\\",
+      "projectPath": "C:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\BusinessDays\\BizDayCalcTests\\BizDayCalcTests.csproj",
+      "packagesPath": "C:\\Users\\thamindub\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\BusinessDays\\BizDayCalcTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\TD\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\thamindub\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.0"
+        "netcoreapp6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "net6.0": {
+          "targetAlias": "netcoreapp6.0",
           "projectReferences": {
-            "C:\\Users\\TD\\Desktop\\.NET Core in Action\\BusinessDays\\BizDayCalc\\BizDayCalc.csproj": {
-              "projectPath": "C:\\Users\\TD\\Desktop\\.NET Core in Action\\BusinessDays\\BizDayCalc\\BizDayCalc.csproj"
+            "C:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\BusinessDays\\BizDayCalc\\BizDayCalc.csproj": {
+              "projectPath": "C:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\BusinessDays\\BizDayCalc\\BizDayCalc.csproj"
             }
           }
         }
@@ -6632,7 +6635,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.0": {
+      "net6.0": {
+        "targetAlias": "netcoreapp6.0",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
@@ -6666,7 +6670,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.307\\RuntimeIdentifierGraph.json"
       }
     }
   }

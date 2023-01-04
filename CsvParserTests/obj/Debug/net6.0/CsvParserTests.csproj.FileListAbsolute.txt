@@ -1,0 +1,6 @@
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CsvParserTests\obj\Debug\net6.0\CsvParserTests.csproj.AssemblyReference.cache
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CsvParserTests\obj\Debug\net6.0\CsvParserTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CsvParserTests\obj\Debug\net6.0\CsvParserTests.AssemblyInfoInputs.cache
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CsvParserTests\obj\Debug\net6.0\CsvParserTests.AssemblyInfo.cs
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CsvParserTests\obj\Debug\net6.0\CsvParserTests.csproj.CoreCompileInputs.cache
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CsvParserTests\bin\Debug\net6.0\CoverletSourceRootsMapping
