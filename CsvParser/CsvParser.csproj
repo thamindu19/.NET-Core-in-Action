@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <Foo>First Foo</Foo>
+    <Property1>$(Foo)</Property1>
+    <Foo>Second Foo</Foo>
+    <Property2>$(Foo)</Property2>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(IsFx)' == 'true'">
+    <TargetFramework>net461</TargetFramework>
+  </PropertyGroup>
+  
+  <!-- <Target Name="TestMessage" AfterTargets="Build"> -->
+  <Target Name="TestMessage">
+    <Message Text="$(Property1)" Importance="high"/>
+    <Message Text="$(Property2)" Importance="high"/>
+  </Target>
+
+  <!-- <ItemGroup>
+    <Compile Remove="Program.cs"/>
+    <None Include="Marvel.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup> -->
+  <ItemGroup>
+    <EmbeddedResource Include="Marvel.csv"/>
+  </ItemGroup>
+
+  <!-- <ItemGroup>
+    <ProjectReference Include="..\foo\foo.csproj"/>
+    <PackageReference Include="xunit" Version="2.1.0"/>
+  </ItemGroup> -->
+</Project>

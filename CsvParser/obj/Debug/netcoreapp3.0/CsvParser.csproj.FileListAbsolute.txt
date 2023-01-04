@@ -1,0 +1,22 @@
+C:\Users\TD\Desktop\.NET Core\CsvParser\obj\Debug\netcoreapp3.0\CsvParser.AssemblyInfoInputs.cache
+C:\Users\TD\Desktop\.NET Core\CsvParser\obj\Debug\netcoreapp3.0\CsvParser.AssemblyInfo.cs
+C:\Users\TD\Desktop\.NET Core\CsvParser\bin\Debug\netcoreapp3.0\CsvParser.exe
+C:\Users\TD\Desktop\.NET Core\CsvParser\bin\Debug\netcoreapp3.0\CsvParser.deps.json
+C:\Users\TD\Desktop\.NET Core\CsvParser\bin\Debug\netcoreapp3.0\CsvParser.runtimeconfig.json
+C:\Users\TD\Desktop\.NET Core\CsvParser\bin\Debug\netcoreapp3.0\CsvParser.runtimeconfig.dev.json
+C:\Users\TD\Desktop\.NET Core\CsvParser\bin\Debug\netcoreapp3.0\CsvParser.dll
+C:\Users\TD\Desktop\.NET Core\CsvParser\bin\Debug\netcoreapp3.0\CsvParser.pdb
+C:\Users\TD\Desktop\.NET Core\CsvParser\obj\Debug\netcoreapp3.0\CsvParser.dll
+C:\Users\TD\Desktop\.NET Core\CsvParser\obj\Debug\netcoreapp3.0\CsvParser.pdb
+C:\Users\TD\Desktop\.NET Core\CsvParser\obj\Debug\netcoreapp3.0\CsvParser.csprojAssemblyReference.cache
+C:\Users\TD\Desktop\.NET Core in Action\CsvParser\obj\Debug\netcoreapp3.0\CsvParser.csprojAssemblyReference.cache
+C:\Users\TD\Desktop\.NET Core in Action\CsvParser\obj\Debug\netcoreapp3.0\CsvParser.AssemblyInfoInputs.cache
+C:\Users\TD\Desktop\.NET Core in Action\CsvParser\obj\Debug\netcoreapp3.0\CsvParser.AssemblyInfo.cs
+C:\Users\TD\Desktop\.NET Core in Action\CsvParser\obj\Debug\netcoreapp3.0\CsvParser.dll
+C:\Users\TD\Desktop\.NET Core in Action\CsvParser\obj\Debug\netcoreapp3.0\CsvParser.pdb
+C:\Users\TD\Desktop\.NET Core in Action\CsvParser\bin\Debug\netcoreapp3.0\CsvParser.exe
+C:\Users\TD\Desktop\.NET Core in Action\CsvParser\bin\Debug\netcoreapp3.0\CsvParser.deps.json
+C:\Users\TD\Desktop\.NET Core in Action\CsvParser\bin\Debug\netcoreapp3.0\CsvParser.runtimeconfig.json
+C:\Users\TD\Desktop\.NET Core in Action\CsvParser\bin\Debug\netcoreapp3.0\CsvParser.runtimeconfig.dev.json
+C:\Users\TD\Desktop\.NET Core in Action\CsvParser\bin\Debug\netcoreapp3.0\CsvParser.dll
+C:\Users\TD\Desktop\.NET Core in Action\CsvParser\bin\Debug\netcoreapp3.0\CsvParser.pdb
