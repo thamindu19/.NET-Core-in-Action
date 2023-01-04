@@ -1,0 +1,7 @@
+C:\Users\thamindub\Documents\.NET Core in Action\mvc\bin\Release\net6.0\publish\mvc.exe
+C:\Users\thamindub\Documents\.NET Core in Action\mvc\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\thamindub\Documents\.NET Core in Action\mvc\bin\Release\net6.0\publish\appsettings.json
+C:\Users\thamindub\Documents\.NET Core in Action\mvc\bin\Release\net6.0\publish\mvc.dll
+C:\Users\thamindub\Documents\.NET Core in Action\mvc\bin\Release\net6.0\publish\mvc.deps.json
+C:\Users\thamindub\Documents\.NET Core in Action\mvc\bin\Release\net6.0\publish\mvc.runtimeconfig.json
+C:\Users\thamindub\Documents\.NET Core in Action\mvc\bin\Release\net6.0\publish\mvc.pdb
