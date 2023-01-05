@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thamindub\\Documents\\.NET Core in Action\\mvc\\mvc.csproj",
+      "projectUniqueName": "c:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\mvc\\mvc.csproj",
       "projectName": "mvc",
-      "projectPath": "C:\\Users\\thamindub\\Documents\\.NET Core in Action\\mvc\\mvc.csproj",
+      "projectPath": "c:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\mvc\\mvc.csproj",
       "packagesPath": "C:\\Users\\thamindub\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thamindub\\Documents\\.NET Core in Action\\mvc\\obj\\",
+      "outputPath": "c:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\mvc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thamindub\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.307\\RuntimeIdentifierGraph.json"
       }
     }
   }

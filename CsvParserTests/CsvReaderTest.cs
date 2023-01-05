@@ -17,6 +17,7 @@ namespace CsvParserTests {
         public void Dispose() {
             streamReader.Dispose();
         }
+        
         [Fact]
         public void VerifyNumberOfLines() {
             Assert.Equal(7, csvReader.Lines.Count());

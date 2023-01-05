@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive\\Thamindu\\OneDrive - Expolanka Holdings PLC\\.NET CORE\\.NET Core in Action\\hwapp\\hwapp.csproj": {}
+    "c:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\hwapp\\hwapp.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive\\Thamindu\\OneDrive - Expolanka Holdings PLC\\.NET CORE\\.NET Core in Action\\hwapp\\hwapp.csproj": {
+    "c:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\hwapp\\hwapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive\\Thamindu\\OneDrive - Expolanka Holdings PLC\\.NET CORE\\.NET Core in Action\\hwapp\\hwapp.csproj",
+        "projectUniqueName": "c:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\hwapp\\hwapp.csproj",
         "projectName": "hwapp",
-        "projectPath": "D:\\OneDrive\\Thamindu\\OneDrive - Expolanka Holdings PLC\\.NET CORE\\.NET Core in Action\\hwapp\\hwapp.csproj",
+        "projectPath": "c:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\hwapp\\hwapp.csproj",
         "packagesPath": "C:\\Users\\thamindub\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive\\Thamindu\\OneDrive - Expolanka Holdings PLC\\.NET CORE\\.NET Core in Action\\hwapp\\obj\\",
+        "outputPath": "c:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\hwapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thamindub\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.307\\RuntimeIdentifierGraph.json"
         }
       }
     }

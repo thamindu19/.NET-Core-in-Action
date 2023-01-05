@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gnBM2XG6QqYiIAnhGJcEGOkBH/KkyMPBMI1+rJF6AJPUqzIfRu6cbdYQMtQD1DQODornzw2OSvFPMGiRH5Ibtg==",
+  "dgSpecHash": "+pD/ViSQN24XdAdLitxkdcKdiwYy0PweiruiDe87o6S8LpfoF1ZlIWQTyRD5Ias8qKueSuaM9FDCOZtrQMnJTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thamindub\\Documents\\.NET Core in Action\\mvc\\mvc.csproj",
+  "projectFilePath": "c:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\mvc\\mvc.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

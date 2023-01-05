@@ -12,6 +12,9 @@
     <PackageReference Include="xunit.runner.visualstudio" Version="2.4.0" />
     <PackageReference Include="coverlet.collector" Version="1.0.1" />
     <ProjectReference Include="../BizDayCalc/BizDayCalc.csproj"/>
+    <!-- for - output from xUnit tests -->
+    <Compile Remove="USHolidayTest.cs" />
+    <Compile Remove="WeekendRuleTest.cs" />
   </ItemGroup>
 
 </Project>
