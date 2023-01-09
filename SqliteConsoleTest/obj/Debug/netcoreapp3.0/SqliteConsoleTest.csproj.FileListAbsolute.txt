@@ -1,0 +1,3 @@
+D:\UoM\ITX360 Internship\ITX\.NET-Core-in-Action\SqliteConsoleTest\obj\Debug\netcoreapp3.0\SqliteConsoleTest.csprojAssemblyReference.cache
+D:\UoM\ITX360 Internship\ITX\.NET-Core-in-Action\SqliteConsoleTest\obj\Debug\netcoreapp3.0\SqliteConsoleTest.AssemblyInfoInputs.cache
+D:\UoM\ITX360 Internship\ITX\.NET-Core-in-Action\SqliteConsoleTest\obj\Debug\netcoreapp3.0\SqliteConsoleTest.AssemblyInfo.cs
