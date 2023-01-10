@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kb64FrjcnipnIWo03cffoeHUuVNt03xGLzDbrXvJ527zns0+2FlzFxfsGsCALJuF2jrhCKppmzR0nGLZAJ6D3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\CreateTablesTest\\WidgetScmDataAccess\\WidgetScmDataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thamindub\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\thamindub\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -6,3 +6,13 @@ D:\UoM\ITX360 Internship\ITX\.NET-Core-in-Action\CreateTablesTest\WidgetScmDataA
 D:\UoM\ITX360 Internship\ITX\.NET-Core-in-Action\CreateTablesTest\WidgetScmDataAccess\bin\Debug\netstandard2.0\WidgetScmDataAccess.pdb
 D:\UoM\ITX360 Internship\ITX\.NET-Core-in-Action\CreateTablesTest\WidgetScmDataAccess\obj\Debug\netstandard2.0\WidgetScmDataAccess.dll
 D:\UoM\ITX360 Internship\ITX\.NET-Core-in-Action\CreateTablesTest\WidgetScmDataAccess\obj\Debug\netstandard2.0\WidgetScmDataAccess.pdb
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CreateTablesTest\WidgetScmDataAccess\obj\Debug\netstandard2.0\WidgetScmDataAccess.csproj.AssemblyReference.cache
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CreateTablesTest\WidgetScmDataAccess\obj\Debug\netstandard2.0\WidgetScmDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CreateTablesTest\WidgetScmDataAccess\obj\Debug\netstandard2.0\WidgetScmDataAccess.AssemblyInfoInputs.cache
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CreateTablesTest\WidgetScmDataAccess\obj\Debug\netstandard2.0\WidgetScmDataAccess.AssemblyInfo.cs
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CreateTablesTest\WidgetScmDataAccess\obj\Debug\netstandard2.0\WidgetScmDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CreateTablesTest\WidgetScmDataAccess\obj\Debug\netstandard2.0\WidgetScmDataAccess.dll
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CreateTablesTest\WidgetScmDataAccess\obj\Debug\netstandard2.0\WidgetScmDataAccess.pdb
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CreateTablesTest\WidgetScmDataAccess\bin\Debug\netstandard2.0\WidgetScmDataAccess.deps.json
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CreateTablesTest\WidgetScmDataAccess\bin\Debug\netstandard2.0\WidgetScmDataAccess.dll
+C:\Users\thamindub\Documents\.NET-Core-in-Action\CreateTablesTest\WidgetScmDataAccess\bin\Debug\netstandard2.0\WidgetScmDataAccess.pdb
