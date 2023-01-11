@@ -2094,7 +2094,7 @@
       },
       "WidgetScmDataAccess/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETCoreApp,Version=v2.0",
         "compile": {
           "bin/placeholder/WidgetScmDataAccess.dll": {}
         },
@@ -6938,34 +6938,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\thamindub\\.nuget\\packages\\": {}
+    "C:\\Users\\TD\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\CreateTablesTest\\SqliteScmTest\\SqliteScmTest.csproj",
+      "projectUniqueName": "D:\\UoM\\ITX360 Internship\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\SqliteScmTest\\SqliteScmTest.csproj",
       "projectName": "SqliteScmTest",
-      "projectPath": "C:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\CreateTablesTest\\SqliteScmTest\\SqliteScmTest.csproj",
-      "packagesPath": "C:\\Users\\thamindub\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\CreateTablesTest\\SqliteScmTest\\obj\\",
+      "projectPath": "D:\\UoM\\ITX360 Internship\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\SqliteScmTest\\SqliteScmTest.csproj",
+      "packagesPath": "C:\\Users\\TD\\.nuget\\packages\\",
+      "outputPath": "D:\\UoM\\ITX360 Internship\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\SqliteScmTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\thamindub\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\TD\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.0": {
-          "targetAlias": "netcoreapp3.0",
           "projectReferences": {
-            "C:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\CreateTablesTest\\WidgetScmDataAccess\\WidgetScmDataAccess.csproj": {
-              "projectPath": "C:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\CreateTablesTest\\WidgetScmDataAccess\\WidgetScmDataAccess.csproj"
+            "D:\\UoM\\ITX360 Internship\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\WidgetScmDataAccess\\WidgetScmDataAccess.csproj": {
+              "projectPath": "D:\\UoM\\ITX360 Internship\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\WidgetScmDataAccess\\WidgetScmDataAccess.csproj"
             }
           }
         }
@@ -6978,7 +6975,6 @@
     },
     "frameworks": {
       "netcoreapp3.0": {
-        "targetAlias": "netcoreapp3.0",
         "dependencies": {
           "Microsoft.Data.Sqlite": {
             "target": "Package",
@@ -7020,7 +7016,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.307\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,8 @@
+D:\UoM\ITX360 Internship\ITX\.NET-Core-in-Action\CreateTablesTest\WidgetScmDataAccess\obj\Debug\netcoreapp2.0\WidgetScmDataAccess.csprojAssemblyReference.cache
+D:\UoM\ITX360 Internship\ITX\.NET-Core-in-Action\CreateTablesTest\WidgetScmDataAccess\obj\Debug\netcoreapp2.0\WidgetScmDataAccess.AssemblyInfoInputs.cache
+D:\UoM\ITX360 Internship\ITX\.NET-Core-in-Action\CreateTablesTest\WidgetScmDataAccess\obj\Debug\netcoreapp2.0\WidgetScmDataAccess.AssemblyInfo.cs
+D:\UoM\ITX360 Internship\ITX\.NET-Core-in-Action\CreateTablesTest\WidgetScmDataAccess\bin\Debug\netcoreapp2.0\WidgetScmDataAccess.deps.json
+D:\UoM\ITX360 Internship\ITX\.NET-Core-in-Action\CreateTablesTest\WidgetScmDataAccess\bin\Debug\netcoreapp2.0\WidgetScmDataAccess.dll
+D:\UoM\ITX360 Internship\ITX\.NET-Core-in-Action\CreateTablesTest\WidgetScmDataAccess\bin\Debug\netcoreapp2.0\WidgetScmDataAccess.pdb
+D:\UoM\ITX360 Internship\ITX\.NET-Core-in-Action\CreateTablesTest\WidgetScmDataAccess\obj\Debug\netcoreapp2.0\WidgetScmDataAccess.dll
+D:\UoM\ITX360 Internship\ITX\.NET-Core-in-Action\CreateTablesTest\WidgetScmDataAccess\obj\Debug\netcoreapp2.0\WidgetScmDataAccess.pdb
