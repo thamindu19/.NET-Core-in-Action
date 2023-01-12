@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "tQ5O5Lr9DA/giImeDdQgzvk01+GYSbCKjAb/0lsPhoxBxmeewll1WRo0CWP11TGKoRJNCM5cAYoJGWAmMhnzHQ==",
+  "dgSpecHash": "pUHG2oIWZco2nGe8aHI8AkCidhJAqHoOtE1H4aqX5lAnejhOMxbN2mIkyHeV48e3IBdTGMYS2bs64xB+aHx9yw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\CsvParser\\CsvParser.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\CsvParser\\CsvParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TD\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\TD\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\TD\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\TD\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmDataAccess\\ScmDataAccess.csproj": {}
+  },
+  "projects": {
+    "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmDataAccess\\ScmDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmDataAccess\\ScmDataAccess.csproj",
+        "projectName": "ScmDataAccess",
+        "projectPath": "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmDataAccess\\ScmDataAccess.csproj",
+        "packagesPath": "C:\\Users\\TD\\.nuget\\packages\\",
+        "outputPath": "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmDataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TD\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.2": {
+            "targetAlias": "netstandard1.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.2": {
+          "targetAlias": "netstandard1.2",
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            },
+            "System.Data.Comman": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

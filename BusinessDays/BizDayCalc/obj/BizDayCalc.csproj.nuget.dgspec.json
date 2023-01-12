@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\BusinessDays\\BizDayCalc\\BizDayCalc.csproj": {}
+    "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\BusinessDays\\BizDayCalc\\BizDayCalc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\BusinessDays\\BizDayCalc\\BizDayCalc.csproj": {
+    "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\BusinessDays\\BizDayCalc\\BizDayCalc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\BusinessDays\\BizDayCalc\\BizDayCalc.csproj",
+        "projectUniqueName": "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\BusinessDays\\BizDayCalc\\BizDayCalc.csproj",
         "projectName": "BizDayCalc",
-        "projectPath": "C:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\BusinessDays\\BizDayCalc\\BizDayCalc.csproj",
-        "packagesPath": "C:\\Users\\thamindub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\BusinessDays\\BizDayCalc\\obj\\",
+        "projectPath": "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\BusinessDays\\BizDayCalc\\BizDayCalc.csproj",
+        "packagesPath": "C:\\Users\\TD\\.nuget\\packages\\",
+        "outputPath": "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\BusinessDays\\BizDayCalc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\thamindub\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\TD\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,11 +51,12 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.307\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

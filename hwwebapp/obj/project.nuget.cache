@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kttXbsPHE8p7hmFRUnYwzrspcyckastgA6pOALzLK5Fh3HfKG+kyDVv9uQT65wAjcWpDGZvyM8bXQSW0ezFqQQ==",
+  "dgSpecHash": "mzNK29pkjolhJM/ZhOTBfIliZZkjDBIbKp1K4tw1JjdPC0S1rRWxAjvle45OxFw7MawK485aXrY8XOna+Y4Vnw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\thamindub\\Documents\\.NET-Core-in-Action\\hwwebapp\\hwwebapp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\hwwebapp\\hwwebapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TD\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\TD\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\TD\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\TD\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

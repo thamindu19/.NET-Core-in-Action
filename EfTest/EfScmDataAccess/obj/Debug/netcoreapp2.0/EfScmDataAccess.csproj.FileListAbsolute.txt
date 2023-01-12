@@ -1,0 +1,10 @@
+D:\UoM\Semester 6 Workspace\ITX\.NET-Core-in-Action\EfTest\EfScmDataAccess\obj\Debug\netcoreapp2.0\EfScmDataAccess.csproj.AssemblyReference.cache
+D:\UoM\Semester 6 Workspace\ITX\.NET-Core-in-Action\EfTest\EfScmDataAccess\obj\Debug\netcoreapp2.0\EfScmDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\UoM\Semester 6 Workspace\ITX\.NET-Core-in-Action\EfTest\EfScmDataAccess\obj\Debug\netcoreapp2.0\EfScmDataAccess.AssemblyInfoInputs.cache
+D:\UoM\Semester 6 Workspace\ITX\.NET-Core-in-Action\EfTest\EfScmDataAccess\obj\Debug\netcoreapp2.0\EfScmDataAccess.AssemblyInfo.cs
+D:\UoM\Semester 6 Workspace\ITX\.NET-Core-in-Action\EfTest\EfScmDataAccess\obj\Debug\netcoreapp2.0\EfScmDataAccess.csproj.CoreCompileInputs.cache
+D:\UoM\Semester 6 Workspace\ITX\.NET-Core-in-Action\EfTest\EfScmDataAccess\bin\Debug\netcoreapp2.0\EfScmDataAccess.deps.json
+D:\UoM\Semester 6 Workspace\ITX\.NET-Core-in-Action\EfTest\EfScmDataAccess\bin\Debug\netcoreapp2.0\EfScmDataAccess.dll
+D:\UoM\Semester 6 Workspace\ITX\.NET-Core-in-Action\EfTest\EfScmDataAccess\bin\Debug\netcoreapp2.0\EfScmDataAccess.pdb
+D:\UoM\Semester 6 Workspace\ITX\.NET-Core-in-Action\EfTest\EfScmDataAccess\obj\Debug\netcoreapp2.0\EfScmDataAccess.dll
+D:\UoM\Semester 6 Workspace\ITX\.NET-Core-in-Action\EfTest\EfScmDataAccess\obj\Debug\netcoreapp2.0\EfScmDataAccess.pdb

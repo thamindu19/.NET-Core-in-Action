@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UoM\\ITX360 Internship\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\SqliteScmTest\\SqliteScmTest.csproj": {}
+    "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\SqliteScmTest\\SqliteScmTest.csproj": {}
   },
   "projects": {
-    "D:\\UoM\\ITX360 Internship\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\SqliteScmTest\\SqliteScmTest.csproj": {
+    "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\SqliteScmTest\\SqliteScmTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UoM\\ITX360 Internship\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\SqliteScmTest\\SqliteScmTest.csproj",
+        "projectUniqueName": "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\SqliteScmTest\\SqliteScmTest.csproj",
         "projectName": "SqliteScmTest",
-        "projectPath": "D:\\UoM\\ITX360 Internship\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\SqliteScmTest\\SqliteScmTest.csproj",
+        "projectPath": "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\SqliteScmTest\\SqliteScmTest.csproj",
         "packagesPath": "C:\\Users\\TD\\.nuget\\packages\\",
-        "outputPath": "D:\\UoM\\ITX360 Internship\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\SqliteScmTest\\obj\\",
+        "outputPath": "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\SqliteScmTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TD\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -24,9 +24,10 @@
         },
         "frameworks": {
           "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
             "projectReferences": {
-              "D:\\UoM\\ITX360 Internship\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\WidgetScmDataAccess\\WidgetScmDataAccess.csproj": {
-                "projectPath": "D:\\UoM\\ITX360 Internship\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\WidgetScmDataAccess\\WidgetScmDataAccess.csproj"
+              "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\WidgetScmDataAccess\\WidgetScmDataAccess.csproj": {
+                "projectPath": "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\WidgetScmDataAccess\\WidgetScmDataAccess.csproj"
               }
             }
           }
@@ -39,6 +40,7 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
           "dependencies": {
             "Microsoft.Data.Sqlite": {
               "target": "Package",
@@ -71,7 +73,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -80,18 +83,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\UoM\\ITX360 Internship\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\WidgetScmDataAccess\\WidgetScmDataAccess.csproj": {
+    "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\WidgetScmDataAccess\\WidgetScmDataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UoM\\ITX360 Internship\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\WidgetScmDataAccess\\WidgetScmDataAccess.csproj",
+        "projectUniqueName": "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\WidgetScmDataAccess\\WidgetScmDataAccess.csproj",
         "projectName": "WidgetScmDataAccess",
-        "projectPath": "D:\\UoM\\ITX360 Internship\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\WidgetScmDataAccess\\WidgetScmDataAccess.csproj",
+        "projectPath": "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\WidgetScmDataAccess\\WidgetScmDataAccess.csproj",
         "packagesPath": "C:\\Users\\TD\\.nuget\\packages\\",
-        "outputPath": "D:\\UoM\\ITX360 Internship\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\WidgetScmDataAccess\\obj\\",
+        "outputPath": "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\CreateTablesTest\\WidgetScmDataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TD\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -104,6 +107,7 @@
         },
         "frameworks": {
           "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
             "projectReferences": {}
           }
         },
@@ -115,12 +119,17 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.0.0, )",
               "autoReferenced": true
+            },
+            "System.Data.Common": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             }
           },
           "imports": [
@@ -129,11 +138,12 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

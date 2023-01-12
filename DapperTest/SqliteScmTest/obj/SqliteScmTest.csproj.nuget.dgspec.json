@@ -1,0 +1,143 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperTest\\SqliteScmTest\\SqliteScmTest.csproj": {}
+  },
+  "projects": {
+    "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperTest\\SqliteScmTest\\SqliteScmTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperTest\\SqliteScmTest\\SqliteScmTest.csproj",
+        "projectName": "SqliteScmTest",
+        "projectPath": "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperTest\\SqliteScmTest\\SqliteScmTest.csproj",
+        "packagesPath": "C:\\Users\\TD\\.nuget\\packages\\",
+        "outputPath": "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperTest\\SqliteScmTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TD\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
+            "projectReferences": {
+              "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperTest\\WidgetScmDataAccess\\WidgetScmDataAccess.csproj": {
+                "projectPath": "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperTest\\WidgetScmDataAccess\\WidgetScmDataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
+          "dependencies": {
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "System.Data.Common": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperTest\\WidgetScmDataAccess\\WidgetScmDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperTest\\WidgetScmDataAccess\\WidgetScmDataAccess.csproj",
+        "projectName": "WidgetScmDataAccess",
+        "projectPath": "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperTest\\WidgetScmDataAccess\\WidgetScmDataAccess.csproj",
+        "packagesPath": "C:\\Users\\TD\\.nuget\\packages\\",
+        "outputPath": "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperTest\\WidgetScmDataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TD\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.3"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.3": {
+            "targetAlias": "netstandard1.3",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.3": {
+          "targetAlias": "netstandard1.3",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[1.50.2, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            },
+            "System.Data.Common": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
