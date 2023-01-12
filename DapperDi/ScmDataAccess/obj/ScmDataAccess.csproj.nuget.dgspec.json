@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmDataAccess\\ScmDataAccess.csproj": {}
+    "D:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmDataAccess\\ScmDataAccess.csproj": {}
   },
   "projects": {
-    "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmDataAccess\\ScmDataAccess.csproj": {
+    "D:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmDataAccess\\ScmDataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmDataAccess\\ScmDataAccess.csproj",
+        "projectUniqueName": "D:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmDataAccess\\ScmDataAccess.csproj",
         "projectName": "ScmDataAccess",
-        "projectPath": "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmDataAccess\\ScmDataAccess.csproj",
+        "projectPath": "D:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmDataAccess\\ScmDataAccess.csproj",
         "packagesPath": "C:\\Users\\TD\\.nuget\\packages\\",
-        "outputPath": "d:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmDataAccess\\obj\\",
+        "outputPath": "D:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmDataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TD\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -49,6 +49,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win10-x64": {
+          "#import": []
         }
       }
     }

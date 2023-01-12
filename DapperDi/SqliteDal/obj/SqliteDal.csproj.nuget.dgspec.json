@@ -4,6 +4,59 @@
     "D:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\SqliteDal\\SqliteDal.csproj": {}
   },
   "projects": {
+    "D:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmDataAccess\\ScmDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmDataAccess\\ScmDataAccess.csproj",
+        "projectName": "ScmDataAccess",
+        "projectPath": "D:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmDataAccess\\ScmDataAccess.csproj",
+        "packagesPath": "C:\\Users\\TD\\.nuget\\packages\\",
+        "outputPath": "D:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmDataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TD\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.2": {
+            "targetAlias": "netstandard1.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.2": {
+          "targetAlias": "netstandard1.2",
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            },
+            "System.Data.Comman": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win10-x64": {
+          "#import": []
+        }
+      }
+    },
     "D:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\SqliteDal\\SqliteDal.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -24,7 +77,12 @@
         },
         "frameworks": {
           "netstandard2.0": {
-            "projectReferences": {}
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmDataAccess\\ScmDataAccess.csproj": {
+                "projectPath": "D:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmDataAccess\\ScmDataAccess.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -35,12 +93,33 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[1.50.2, )"
+            },
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "System.Net.NameResolution": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "runtime.win.System.Net.Sockets": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             }
           },
           "imports": [
@@ -49,11 +128,17 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win10-x64": {
+          "#import": []
         }
       }
     }

@@ -1,9 +1,82 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\SqliteScmTest\\SqliteScmTest.csproj": {}
+    "D:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmConsole\\ScmConsole.csproj": {}
   },
   "projects": {
+    "D:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmConsole\\ScmConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmConsole\\ScmConsole.csproj",
+        "projectName": "ScmConsole",
+        "projectPath": "D:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmConsole\\ScmConsole.csproj",
+        "packagesPath": "C:\\Users\\TD\\.nuget\\packages\\",
+        "outputPath": "D:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TD\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {
+              "D:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\SqliteScmTest\\SqliteScmTest.csproj": {
+                "projectPath": "D:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\SqliteScmTest\\SqliteScmTest.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.9, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win10-x64": {
+          "#import": []
+        }
+      }
+    },
     "D:\\UoM\\Semester 6 Workspace\\ITX\\.NET-Core-in-Action\\DapperDi\\ScmDataAccess\\ScmDataAccess.csproj": {
       "version": "1.0.0",
       "restore": {

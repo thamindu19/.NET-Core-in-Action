@@ -1,0 +1,15 @@
+D:\UoM\Semester 6 Workspace\ITX\.NET-Core-in-Action\Test1\bin\Debug\net7.0\Test1.exe
+D:\UoM\Semester 6 Workspace\ITX\.NET-Core-in-Action\Test1\bin\Debug\net7.0\Test1.deps.json
+D:\UoM\Semester 6 Workspace\ITX\.NET-Core-in-Action\Test1\bin\Debug\net7.0\Test1.runtimeconfig.json
+D:\UoM\Semester 6 Workspace\ITX\.NET-Core-in-Action\Test1\bin\Debug\net7.0\Test1.dll
+D:\UoM\Semester 6 Workspace\ITX\.NET-Core-in-Action\Test1\bin\Debug\net7.0\Test1.pdb
+D:\UoM\Semester 6 Workspace\ITX\.NET-Core-in-Action\Test1\obj\Debug\net7.0\Test1.csproj.AssemblyReference.cache
+D:\UoM\Semester 6 Workspace\ITX\.NET-Core-in-Action\Test1\obj\Debug\net7.0\Test1.GeneratedMSBuildEditorConfig.editorconfig
+D:\UoM\Semester 6 Workspace\ITX\.NET-Core-in-Action\Test1\obj\Debug\net7.0\Test1.AssemblyInfoInputs.cache
+D:\UoM\Semester 6 Workspace\ITX\.NET-Core-in-Action\Test1\obj\Debug\net7.0\Test1.AssemblyInfo.cs
+D:\UoM\Semester 6 Workspace\ITX\.NET-Core-in-Action\Test1\obj\Debug\net7.0\Test1.csproj.CoreCompileInputs.cache
+D:\UoM\Semester 6 Workspace\ITX\.NET-Core-in-Action\Test1\obj\Debug\net7.0\Test1.dll
+D:\UoM\Semester 6 Workspace\ITX\.NET-Core-in-Action\Test1\obj\Debug\net7.0\refint\Test1.dll
+D:\UoM\Semester 6 Workspace\ITX\.NET-Core-in-Action\Test1\obj\Debug\net7.0\Test1.pdb
+D:\UoM\Semester 6 Workspace\ITX\.NET-Core-in-Action\Test1\obj\Debug\net7.0\Test1.genruntimeconfig.cache
+D:\UoM\Semester 6 Workspace\ITX\.NET-Core-in-Action\Test1\obj\Debug\net7.0\ref\Test1.dll
